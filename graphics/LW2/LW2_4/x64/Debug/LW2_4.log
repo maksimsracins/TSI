@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\csharp projects\LW2\LW2_4\Source.cpp(70,9): warning C4101: 'y': unreferenced local variable
+D:\csharp projects\LW2\LW2_4\Source.cpp(70,6): warning C4101: 'x': unreferenced local variable
+  LW2_4.vcxproj -> D:\csharp projects\LW2\LW2\x64\Debug\LW2_4.exe

@@ -1,0 +1,3 @@
+D:\csharp projects\LW2\LW2\x64\Debug\LW2_1.exe
+D:\csharp projects\LW2\LW2_1\x64\Debug\LW2_1.exe
+D:\csharp projects\PW4\PW4_2\x64\Debug\PW4_2.exe

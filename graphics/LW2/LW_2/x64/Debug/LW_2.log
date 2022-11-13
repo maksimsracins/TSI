@@ -1,0 +1,1 @@
+﻿D:\csharp projects\LW2\LW_2\LW_2.vcxproj(143,5): error : This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is ..\LW2\packages\freeglut.3.0.0.v140.1.0.2\build\freeglut.3.0.0.v140.props.
