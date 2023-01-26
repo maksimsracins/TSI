@@ -1,0 +1,10 @@
+﻿  Source.cpp
+D:\Desktop\Github repository\tsi\graphics\PW5\PW5\PW5\Source.cpp(7,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Desktop\Github repository\tsi\graphics\PW5\PW5\PW5\Source.cpp(7,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Desktop\Github repository\tsi\graphics\PW5\PW5\PW5\Source.cpp(7,31): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Desktop\Github repository\tsi\graphics\PW5\PW5\PW5\Source.cpp(62,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Desktop\Github repository\tsi\graphics\PW5\PW5\PW5\Source.cpp(62,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Desktop\Github repository\tsi\graphics\PW5\PW5\PW5\Source.cpp(65,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Desktop\Github repository\tsi\graphics\PW5\PW5\PW5\Source.cpp(66,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Desktop\Github repository\tsi\graphics\PW5\PW5\PW5\Source.cpp(70,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  PW5.vcxproj -> D:\Desktop\Github repository\tsi\graphics\PW5\PW5\x64\Debug\PW5.exe

@@ -1,0 +1,26 @@
+D:\Desktop\Github repository\tsi\OnlineBankingSystem\Online Banking System\Online Banking System\bin\Debug\net7.0\appsettings.Development.json
+D:\Desktop\Github repository\tsi\OnlineBankingSystem\Online Banking System\Online Banking System\bin\Debug\net7.0\appsettings.json
+D:\Desktop\Github repository\tsi\OnlineBankingSystem\Online Banking System\Online Banking System\bin\Debug\net7.0\Online Banking System.exe
+D:\Desktop\Github repository\tsi\OnlineBankingSystem\Online Banking System\Online Banking System\bin\Debug\net7.0\Online Banking System.deps.json
+D:\Desktop\Github repository\tsi\OnlineBankingSystem\Online Banking System\Online Banking System\bin\Debug\net7.0\Online Banking System.runtimeconfig.json
+D:\Desktop\Github repository\tsi\OnlineBankingSystem\Online Banking System\Online Banking System\bin\Debug\net7.0\Online Banking System.dll
+D:\Desktop\Github repository\tsi\OnlineBankingSystem\Online Banking System\Online Banking System\bin\Debug\net7.0\Online Banking System.pdb
+D:\Desktop\Github repository\tsi\OnlineBankingSystem\Online Banking System\Online Banking System\obj\Debug\net7.0\Online Banking System.csproj.AssemblyReference.cache
+D:\Desktop\Github repository\tsi\OnlineBankingSystem\Online Banking System\Online Banking System\obj\Debug\net7.0\Online Banking System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Github repository\tsi\OnlineBankingSystem\Online Banking System\Online Banking System\obj\Debug\net7.0\Online Banking System.AssemblyInfoInputs.cache
+D:\Desktop\Github repository\tsi\OnlineBankingSystem\Online Banking System\Online Banking System\obj\Debug\net7.0\Online Banking System.AssemblyInfo.cs
+D:\Desktop\Github repository\tsi\OnlineBankingSystem\Online Banking System\Online Banking System\obj\Debug\net7.0\Online Banking System.csproj.CoreCompileInputs.cache
+D:\Desktop\Github repository\tsi\OnlineBankingSystem\Online Banking System\Online Banking System\obj\Debug\net7.0\Online Banking System.MvcApplicationPartsAssemblyInfo.cache
+D:\Desktop\Github repository\tsi\OnlineBankingSystem\Online Banking System\Online Banking System\obj\Debug\net7.0\staticwebassets\msbuild.Online Banking System.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Desktop\Github repository\tsi\OnlineBankingSystem\Online Banking System\Online Banking System\obj\Debug\net7.0\staticwebassets\msbuild.build.Online Banking System.props
+D:\Desktop\Github repository\tsi\OnlineBankingSystem\Online Banking System\Online Banking System\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Online Banking System.props
+D:\Desktop\Github repository\tsi\OnlineBankingSystem\Online Banking System\Online Banking System\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Online Banking System.props
+D:\Desktop\Github repository\tsi\OnlineBankingSystem\Online Banking System\Online Banking System\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Desktop\Github repository\tsi\OnlineBankingSystem\Online Banking System\Online Banking System\obj\Debug\net7.0\staticwebassets.build.json
+D:\Desktop\Github repository\tsi\OnlineBankingSystem\Online Banking System\Online Banking System\obj\Debug\net7.0\staticwebassets.development.json
+D:\Desktop\Github repository\tsi\OnlineBankingSystem\Online Banking System\Online Banking System\obj\Debug\net7.0\scopedcss\bundle\Online Banking System.styles.css
+D:\Desktop\Github repository\tsi\OnlineBankingSystem\Online Banking System\Online Banking System\obj\Debug\net7.0\Online Banking System.dll
+D:\Desktop\Github repository\tsi\OnlineBankingSystem\Online Banking System\Online Banking System\obj\Debug\net7.0\refint\Online Banking System.dll
+D:\Desktop\Github repository\tsi\OnlineBankingSystem\Online Banking System\Online Banking System\obj\Debug\net7.0\Online Banking System.pdb
+D:\Desktop\Github repository\tsi\OnlineBankingSystem\Online Banking System\Online Banking System\obj\Debug\net7.0\Online Banking System.genruntimeconfig.cache
+D:\Desktop\Github repository\tsi\OnlineBankingSystem\Online Banking System\Online Banking System\obj\Debug\net7.0\ref\Online Banking System.dll

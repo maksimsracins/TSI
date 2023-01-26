@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\Desktop\Github repository\tsi\graphics\PW6\PW6\PW6\Source.cpp(22,14): warning C4101: 'z': unreferenced local variable
+D:\Desktop\Github repository\tsi\graphics\PW6\PW6\PW6\Source.cpp(22,11): warning C4101: 'y': unreferenced local variable
+D:\Desktop\Github repository\tsi\graphics\PW6\PW6\PW6\Source.cpp(22,8): warning C4101: 'x': unreferenced local variable
+  PW6.vcxproj -> D:\Desktop\Github repository\tsi\graphics\PW6\PW6\x64\Debug\PW6.exe
