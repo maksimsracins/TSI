@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\Online Banking System.props" />
-</Project>
